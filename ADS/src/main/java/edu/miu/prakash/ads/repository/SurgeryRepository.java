@@ -1,9 +1,7 @@
-package edu.miu.cs489.ADSApp.repository;
+package edu.miu.prakash.ads.repository;
 
-import edu.miu.cs489.ADSApp.model.Surgery;
+import  edu.miu.prakash.ads.model.Surgery;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.stereotype.Repository;
 
-@Repository
 public interface SurgeryRepository extends JpaRepository<Surgery, Integer> {
 }

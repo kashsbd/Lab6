@@ -1,6 +1,6 @@
-package edu.miu.cs489.ADSApp.service;
+package edu.miu.prakash.ads.service;
 
-import edu.miu.cs489.ADSApp.model.Role;
+import edu.miu.prakash.ads.model.Role;
 
 import java.util.List;
 

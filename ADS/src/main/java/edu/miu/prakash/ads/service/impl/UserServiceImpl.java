@@ -1,8 +1,8 @@
-package edu.miu.cs489.ADSApp.service.impl;
+package edu.miu.prakash.ads.service.impl;
 
-import edu.miu.cs489.ADSApp.model.User;
-import edu.miu.cs489.ADSApp.repository.UserRepository;
-import edu.miu.cs489.ADSApp.service.UserService;
+import edu.miu.prakash.ads.model.User;
+import edu.miu.prakash.ads.repository.UserRepository;
+import edu.miu.prakash.ads.service.UserService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

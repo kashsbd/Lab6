@@ -1,4 +1,4 @@
-package edu.miu.cs489.ADSApp.model;
+package edu.miu.prakash.ads.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

@@ -1,8 +1,8 @@
-package edu.miu.cs489.ADSApp.service.impl;
+package edu.miu.prakash.ads.service.impl;
 
-import edu.miu.cs489.ADSApp.model.Dentist;
-import edu.miu.cs489.ADSApp.repository.DentistRepository;
-import edu.miu.cs489.ADSApp.service.DentistService;
+import edu.miu.prakash.ads.model.Dentist;
+import edu.miu.prakash.ads.repository.DentistRepository;
+import edu.miu.prakash.ads.service.DentistService;
 import org.springframework.stereotype.Service;
 import java.util.List;
 

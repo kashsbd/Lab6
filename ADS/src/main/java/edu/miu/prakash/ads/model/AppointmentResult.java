@@ -1,4 +1,4 @@
-package edu.miu.cs489.ADSApp.model;
+package edu.miu.prakash.ads.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

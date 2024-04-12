@@ -1,8 +1,8 @@
-package edu.miu.cs489.ADSApp.service.impl;
+package edu.miu.prakash.ads.service.impl;
 
-import edu.miu.cs489.ADSApp.model.Address;
-import edu.miu.cs489.ADSApp.repository.AddressRepository;
-import edu.miu.cs489.ADSApp.service.AddressService;
+import edu.miu.prakash.ads.model.Address;
+import edu.miu.prakash.ads.repository.AddressRepository;
+import edu.miu.prakash.ads.service.AddressService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;

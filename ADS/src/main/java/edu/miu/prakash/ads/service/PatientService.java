@@ -1,6 +1,6 @@
-package edu.miu.cs489.ADSApp.service;
+package edu.miu.prakash.ads.service;
 
-import edu.miu.cs489.ADSApp.model.Patient;
+import edu.miu.prakash.ads.model.Patient;
 
 import java.util.List;
 

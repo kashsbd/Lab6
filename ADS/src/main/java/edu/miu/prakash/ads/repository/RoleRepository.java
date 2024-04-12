@@ -1,9 +1,7 @@
-package edu.miu.cs489.ADSApp.repository;
+package edu.miu.prakash.ads.repository;
 
-import edu.miu.cs489.ADSApp.model.Role;
+import edu.miu.prakash.ads.model.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.stereotype.Repository;
 
-@Repository
 public interface RoleRepository extends JpaRepository<Role, Integer> {
 }

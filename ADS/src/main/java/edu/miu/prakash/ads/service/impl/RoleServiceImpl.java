@@ -1,8 +1,8 @@
-package edu.miu.cs489.ADSApp.service.impl;
+package edu.miu.prakash.ads.service.impl;
 
-import edu.miu.cs489.ADSApp.model.Role;
-import edu.miu.cs489.ADSApp.repository.RoleRepository;
-import edu.miu.cs489.ADSApp.service.RoleService;
+import edu.miu.prakash.ads.model.Role;
+import edu.miu.prakash.ads.repository.RoleRepository;
+import edu.miu.prakash.ads.service.RoleService;
 import org.springframework.stereotype.Service;
 import java.util.List;
 

@@ -1,7 +1,6 @@
-package edu.miu.cs489.ADSApp.service;
+package edu.miu.prakash.ads.service;
 
-import edu.miu.cs489.ADSApp.model.Appointment;
-import edu.miu.cs489.ADSApp.model.AppointmentResult;
+import edu.miu.prakash.ads.model.Appointment;
 
 import java.util.List;
 
@@ -15,5 +14,4 @@ public interface AppointmentService {
     Appointment updateAppointment(Appointment appointment);
 
     void deleteAppointmentById(Integer appointmentId);
-
 }

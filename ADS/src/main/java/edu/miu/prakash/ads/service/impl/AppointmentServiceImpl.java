@@ -1,9 +1,8 @@
-package edu.miu.cs489.ADSApp.service.impl;
+package edu.miu.prakash.ads.service.impl;
 
-import edu.miu.cs489.ADSApp.model.Appointment;
-import edu.miu.cs489.ADSApp.model.AppointmentResult;
-import edu.miu.cs489.ADSApp.repository.AppointmentRepository;
-import edu.miu.cs489.ADSApp.service.AppointmentService;
+import edu.miu.prakash.ads.model.Appointment;
+import edu.miu.prakash.ads.repository.AppointmentRepository;
+import edu.miu.prakash.ads.service.AppointmentService;
 import org.springframework.stereotype.Service;
 import java.util.List;
 
